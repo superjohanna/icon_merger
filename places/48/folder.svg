@@ -1,94 +1,106 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    width="48"
+   id="svg1"
+   export-ydpi="384"
+   version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   docname="folder.svg"
+   export-xdpi="384"
+   export-filename="folder-base.png"
    height="48"
    viewBox="0 0 12.7 12.7"
-   version="1.1"
-   id="svg1"
+   sodipodi:docname="folder-download.svg"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
-   sodipodi:docname="folder.svg"
-   inkscape:export-filename="folder-base.png"
-   inkscape:export-xdpi="384"
-   inkscape:export-ydpi="384"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
      borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     inkscape:document-units="mm"
+     pagecolor="#505050"
      showgrid="true"
-     inkscape:zoom="13.455443"
-     inkscape:cx="25.78882"
-     inkscape:cy="28.873074"
-     inkscape:window-width="1558"
-     inkscape:window-height="876"
-     inkscape:window-x="42"
-     inkscape:window-y="180"
+     cy="25.045627"
+     window-height="1022"
+     window-y="0"
+     window-maximized="1"
+     pageopacity="0"
+     window-width="1680"
+     pagecheckerboard="0"
+     document-units="mm"
+     bordercolor="#eeeeee"
+     zoom="13.455443"
+     deskcolor="#505050"
+     current-layer="Icon"
+     window-x="1280"
+     id="namedview1"
+     showpageshadow="0"
+     cx="19.471674"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8.8241034"
+     inkscape:cx="11.7859"
+     inkscape:cy="34.22444"
+     inkscape:window-width="1680"
+     inkscape:window-height="1022"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2">
+     inkscape:current-layer="Icon">
     <inkscape:grid
-       id="grid1"
        units="px"
-       originx="0"
-       originy="0"
-       spacingx="0.52916667"
-       spacingy="0.52916667"
-       empcolor="#0099e5"
-       empopacity="0.30196078"
-       color="#0099e5"
-       opacity="0.14901961"
        empspacing="4"
-       dotted="false"
-       gridanglex="30"
+       id="grid1"
        gridanglez="30"
+       spacingy="0.52916667"
+       originx="0"
+       dotted="false"
+       empcolor="#0099e5"
+       spacingx="0.52916667"
+       opacity="0.14901961"
        visible="true"
-       snapvisiblegridlinesonly="true" />
+       color="#0099e5"
+       gridanglex="30"
+       originy="0"
+       snapvisiblegridlinesonly="true"
+       empopacity="0.30196078" />
   </sodipodi:namedview>
   <defs
      id="defs1" />
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
+     label="Layer 1"
+     groupmode="layer"
      id="layer1">
     <path
-       style="display:inline;fill:#8c6d30;fill-opacity:1;stroke:#8c6d30;stroke-width:0.680968;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       d="m 1.5875001,8.4666672 0,-5.8208337 h 3.1750001 l 0.5291667,0.5291666 h 5.8208341 l 0,5.2916671 z"
+       label="Back"
        id="path1"
-       sodipodi:nodetypes="ccccccc"
-       inkscape:label="Back" />
+       style="display:inline;fill:#8c6d30;fill-opacity:1;stroke:#8c6d30;stroke-width:0.680968;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       nodetypes="ccccccc"
+       d="m 1.5875001,8.4666672 0,-5.8208337 h 3.1750001 l 0.5291667,0.5291666 h 5.8208341 l 0,5.2916671 z" />
     <path
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.657;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        d="m 2.1166667,3.1750002 h 8.4666673 v 1.5875 H 2.1166667 l 10e-8,-1.5875001"
+       label="File"
        id="path3"
-       inkscape:label="File"
-       sodipodi:nodetypes="ccccc" />
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.657;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       nodetypes="ccccc" />
     <path
        style="display:inline;fill:#fec758;fill-opacity:1;stroke:#fec758;stroke-width:0.657;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1.5875001,10.054167 -1.0583334,-5.2916667 7.9375005,0 0.5291667,-1.0583334 H 12.170834 L 11.1125,10.054167 H 1.5875001"
+       label="Front"
        id="path2"
-       inkscape:label="Front"
-       sodipodi:nodetypes="ccccccc" />
+       nodetypes="ccccccc"
+       d="m 1.5875001,10.054167 -1.0583334,-5.2916667 7.9375005,0 0.5291667,-1.0583334 H 12.170834 L 11.1125,10.054167 H 1.5875001" />
   </g>
   <g
-     inkscape:label="Icon"
-     inkscape:groupmode="layer"
-     id="layer2">
-    <rect
-       style="display:none;fill:#58e5fe;fill-opacity:1;stroke-width:0.482433;stroke-linecap:round;stroke-linejoin:round"
-       id="rect1"
-       width="4.2333331"
-       height="4.2333331"
-       x="4.2333336"
-       y="5.291667" />
-  </g>
+     groupmode="layer"
+     id="Icon"
+     label="Icon"
+     transform="matrix(0.26458333,0,0,0.26458333,4.2333333,5.2916667)" />
+  <rect
+     height="4.2333331"
+     y="5.291667"
+     style="display:none;fill:#58e5fe;fill-opacity:1;stroke-width:0.482435;stroke-linecap:round;stroke-linejoin:round"
+     x="4.2333341"
+     id="rect1"
+     width="4.2333331" />
 </svg>

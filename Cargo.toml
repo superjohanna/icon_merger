@@ -6,3 +6,5 @@ edition = "2021"
 [dependencies]
 peekmore = "1.3.0"
 thiserror = "1.0.57"
+xml = "0.8.10"
+xmltree = "0.10.3"
